@@ -30,14 +30,13 @@ function Hero() {
             </div>
           </div>
           <div className="col-md-6 heroimg">
-          <ScrollRotate method={"perc"} loops={2}	>
+          {/* <ScrollRotate method={"perc"} loops={2}	> */}
             <div className="bgimg">
               <div className="outerimg"> 
-             
                 <div className="innerimg"> </div>
               </div>
             </div>
-              </ScrollRotate>
+              {/* </ScrollRotate> */}
           </div>
         </div>
       </div>
